@@ -1,0 +1,6 @@
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-4(Multiplication Table)\Example-4(Multiplication Table)\bin\Debug\Example-4(Multiplication Table).exe.config
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-4(Multiplication Table)\Example-4(Multiplication Table)\bin\Debug\Example-4(Multiplication Table).exe
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-4(Multiplication Table)\Example-4(Multiplication Table)\bin\Debug\Example-4(Multiplication Table).pdb
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-4(Multiplication Table)\Example-4(Multiplication Table)\obj\Debug\Example-4(Multiplication Table).csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-4(Multiplication Table)\Example-4(Multiplication Table)\obj\Debug\Example-4(Multiplication Table).exe
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-4(Multiplication Table)\Example-4(Multiplication Table)\obj\Debug\Example-4(Multiplication Table).pdb
